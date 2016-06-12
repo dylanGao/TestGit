@@ -2,5 +2,5 @@
     "isNeedUpdate": true,
     "isEncrypteSave": false,
     "patchUrl": "https://github.com/dylanGao/TestGit/blob/master/main.js",
-    "code": "wa7He8//SLu9Ir1AX0xLKz14OyUlPJTFZ3LCWufz/5Ac8LuC4cxSYmddRvMkVucS/4UAm70JXsmUwmLM98XqvlvbvQknC9mZLyN/CS6Ut7K5d5DItX3RI+qh/B5vUOekK7m7JwqQr2Qecz0pUkpWDiTzPyr86V9HigtxdLA7dOw="
+    "verifyCode": "wa7He8//SLu9Ir1AX0xLKz14OyUlPJTFZ3LCWufz/5Ac8LuC4cxSYmddRvMkVucS/4UAm70JXsmUwmLM98XqvlvbvQknC9mZLyN/CS6Ut7K5d5DItX3RI+qh/B5vUOekK7m7JwqQr2Qecz0pUkpWDiTzPyr86V9HigtxdLA7dOw="
 }
