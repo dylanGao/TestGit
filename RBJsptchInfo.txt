@@ -2,5 +2,5 @@
     "isNeedUpdate": true,
     "isEncrypteSave": false,
     "patchUrl": "https://github.com/dylanGao/TestGit/blob/master/main.js",
-    "code": "9c944f39e57f2e50bdb85deb878cc0f798efb9b0"
+    "code": "wa7He8//SLu9Ir1AX0xLKz14OyUlPJTFZ3LCWufz/5Ac8LuC4cxSYmddRvMkVucS/4UAm70JXsmUwmLM98XqvlvbvQknC9mZLyN/CS6Ut7K5d5DItX3RI+qh/B5vUOekK7m7JwqQr2Qecz0pUkpWDiTzPyr86V9HigtxdLA7dOw="
 }
