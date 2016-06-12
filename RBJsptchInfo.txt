@@ -1,6 +1,6 @@
 {
     "isNeedUpdate": true,
     "isEncrypteSave": false,
-    "patchUrl": "http://rootUrl/AppVersion/patchData",
+    "patchUrl": "https://github.com/dylanGao/TestGit/blob/master/main.js",
     "code": "9c944f39e57f2e50bdb85deb878cc0f798efb9b0"
 }
