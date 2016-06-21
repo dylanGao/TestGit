@@ -2,5 +2,5 @@
     "isNeedUpdate": true,
     "isEncrypteFile": true,
     "patchUrl": "https://raw.githubusercontent.com/dylanGao/TestGit/master/main.js",
-    "verifyCode": "eso5Ovf+REUYAMAhA+vpdAEFaKyQYlmgJKhKk9aYozRe+4sW9OdqUfsFsSVIWrTXQnw29x7MmrA7/P+r6zbAGoPYwOlL+H5LxMERbrSs2xw5u1tDegd6sHNVZq96pEvdtcOTSTBBI2FHkmUcs7gJra52XIHDGawXkhEDTbE56CQ="
+    "verifyCode": "l+BxqAbrzbVl3ZO0EXGnch9SJEGKxk4IxGDHcfC34+iDkHieJ8pt/EHoiyI0dvcwwe3WQVWG4EfwD7/OQn1KIpq/AFxYGVsog0NtotDBC78Jur87JRo2fE9YCrdqDCG9j787pA67EJmC0pu0hF5H9DtDMDYuHUcbVqEEyoqqPDU="
 }
