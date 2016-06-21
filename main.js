@@ -1,7 +1,2 @@
-
-     var alertView = require('UIAlertView').alloc().init();
-     alertView.setTitle('警告');
-     alertView.setMessage('JS正在靠近！'); 
-     alertView.addButtonWithTitle('OK');
-     alertView.show();
+UXsiTympjz5Fi4ObM22TGBQzeVst9nCXN8cB8ck12zHi+1bdBen4ztD9fxZGtnZf94axc+OKuwic/dr7zmghIoJww9go1Jr4UvwSAxowVQBmLaSs+hGvtQa5THftDdJaYq2h0X3Q1zcys3qLUPqguk5i6dUPrawNFXxNWJEj4UIWiV1bxirqQwRf1BpJDUHR1jQXnMiLxLUJx4OzJMz+psYsoE68Rzb4n8dTfikH4rvZp4HrQvoCFgG1io9D0R1lh4t/QCRg2ROx4Dxe0tl3dmRnS7p4tGOmIyFfWeaZMaHgH8gPpC5HK08iK0o7HZVMtfgGtqr9Km8S/5vbgxfqFg==
      
